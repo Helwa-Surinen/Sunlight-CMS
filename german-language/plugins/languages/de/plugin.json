@@ -3,7 +3,8 @@
   "name": "Deutsche",
   "description": "Übersetzungsdateien für Deutschland.",
   "authors": [
-      {"url": "https://svatousek.cz/"}
+      {"url": "https://svatousek.cz/"},
+      {"name": "Golfin", "url": "https://github.com/Helwa-Surinen/"}
   ],
   "version": "0.3",
   "environment": {

@@ -5,12 +5,12 @@
   "authors": [
       {"url": "https://svatousek.cz/"}
   ],
-  "version": "0.2",
+  "version": "0.3",
   "environment": {
-      "system": "^8.0"
+      "system": "^8.3.0"
   },
   "class": "Deutschelanguage",
-  "iso_code": "ge",
+  "iso_code": "de",
   "decimal_point": ".",
   "thousands_separator": ","
 }

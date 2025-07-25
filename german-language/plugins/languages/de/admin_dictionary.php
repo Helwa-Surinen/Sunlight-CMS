@@ -1,4 +1,6 @@
-<?php return array (
+<?php
+
+return [
   'admin.link.site' => 'Seiten anzeigen',
   'admin.link.newwin' => 'Neues Fenster',
   'admin.link.home' => 'zurück zur Hauptseite',
@@ -782,4 +784,4 @@ Abbestellen: %unsub_link%',
   'admin.log.detail.nonexistent_user' => 'nicht vorhandener Benutzer',
   'admin.other.phpex.title' => 'PHP-Code ausführen',
   'admin.other.phpex.html' => 'Ausgabe als HTML anzeigen',
-);
+];

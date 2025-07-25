@@ -1,4 +1,6 @@
-<?php return array (
+<?php
+
+return [
   'system.poweredby' => 'Unterstützt von',
   'global.nokit' => 'Kein Artikel gefunden',
   'global.error' => 'fehler',
@@ -401,4 +403,4 @@ Die Anfrage wurde am %date% von %ip% gestellt.',
   'password.error.too_long' => 'das Passwort ist zu lang',
   'password.error.too_short' => 'das Passwort muss mindestens %min_len% Zeichen lang sein',
   'password.error.check_no_match' => 'die eingegebenen Passwörter stimmen nicht überein',
-);
+];

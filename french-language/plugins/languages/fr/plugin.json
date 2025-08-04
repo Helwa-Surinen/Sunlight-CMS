@@ -12,5 +12,5 @@
     "class": "FrenchLanguage",
     "iso_code": "fr",
     "decimal_point": ",",
-    "thousands_separator": ","
+    "thousands_separator": " "
 }
